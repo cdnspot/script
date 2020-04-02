@@ -85,6 +85,5 @@ window.location="https://www.abzinid.com/2019/07/Latest-PUBG-Mobile-Apk-and-Obb-
 if (window.location.pathname == "/2019/07/PUBG-Mobile-Ap-Plus-Obb-Data.html?m=1")
 {
 window.location="https://www.abzinid.com/2019/07/Latest-PUBG-Mobile-Apk-and-Obb-Data.html?m=1";
-}
-else
+}else
 {window.location.hostname="www.abzinid.com";}
